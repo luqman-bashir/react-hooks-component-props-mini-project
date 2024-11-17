@@ -26,6 +26,6 @@ const blogData = {
       minutes: 47,
     },
   ],
-};
+}
 
 export default blogData;
